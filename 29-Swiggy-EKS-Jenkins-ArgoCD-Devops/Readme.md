@@ -16,3 +16,6 @@ mv terraform /usr/local/bin
 sudo mv terraform /usr/local/bin
 terraform -v
 -----------------------------------------------------------------------------------------------------
+
+Medium Ref Blog:
+https://muditmathur121.medium.com/securing-swiggy-clone-app-deployment-on-aws-a-comprehensive-guide-to-building-a-devsecops-pipeline-67bdd7ea004e
